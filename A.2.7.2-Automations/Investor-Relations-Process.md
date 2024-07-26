@@ -3,26 +3,6 @@
 ### Introduction:
 Welcome to oS3's Investor Relations Advisory Process! This system has been designed to guide you through the process of developing and implementing effective investor relations strategies, with a focus on attracting investors who value open-source documentation, operating system automation, and network states. The system is optimized to provide responses and guidance based on the actions and strategies outlined by the Open Source Chief Executive Officer (CEO).
 
-### Strategy Formulation:
-- Shareholder Analysis: Conduct an in-depth analysis to understand shareholder expectations and the current composition of shareholders. Identify any gaps or areas where investor relations can be enhanced.
-- Investment Proposition: Clearly define the company's unique value proposition, competitive advantages, and target investor profile. This will help attract investors who are aligned with the company's vision and goals.
-- Target Investor Alignment: Ensure that the company's appeal resonates with the interests and preferences of the target investors. Consider factors such as investment style, geographic focus, sector/industry preferences, and corporate governance expectations.
-
-### Outreach and Engagement:
-- Tailored Outreach: Develop a customized outreach strategy to attract the right investors. Highlight key metrics, impressive organizational achievements, and AI-driven solutions or decentralized technologies that set the company apart.
-- Captivating Pitch: Engage portfolio managers by tailoring the company's pitch to their favored themes. Capture their attention with a high-level overview before delving into the specifics of the investment opportunity.
-- Multichannel Communication: Utilize various communication channels, including email, phone, and social media, to initiate contact and build initial connections with potential investors.
-
-### Relationship Building:
-- Showcase Expertise: Foster strong relationships with potential investors by showcasing the company's expertise, thought leadership, and unique value proposition. Establish the company as a trusted and innovative player in the industry.
-- Content Marketing: Implement content marketing strategies such as whitepapers, blog posts, and webinars to demonstrate thought leadership and establish credibility.
-- Industry Presence: Attend and actively participate in industry events, conferences, and networking opportunities to build personal connections with investors and showcase the company's innovation.
-
-### Negotiation and Support:
-- Pitch Refinement: Assist with refining the company's pitch to potential investors, ensuring that the company's interests and values are effectively communicated.
-- Transparent Reporting: Provide ongoing support and transparency through regular post-investment reporting. Maintain open and honest communication with investors to build trust and long-term relationships.
-- Strategic Guidance: Guide the company in achieving its core KPIs and provide strategic advice to ensure that the investment translates into tangible business growth and value creation.
-
 ### Month 0:
 - Publish oS3 Investor Relations Website v0: Work with the Open Source CEO to create an initial version of the investor relations website, providing an overview of the company's investment proposition.
 - Publish openSource Documentation: Release comprehensive documentation, including the company's business model, value proposition, and unique selling points.
